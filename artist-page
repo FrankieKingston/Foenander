@@ -1,0 +1,649 @@
+<script src="https://cdn.jsdelivr.net/npm/@finsweet/cms-library@1/cms-library.js"></script>
+<script>
+(function() {
+var artistnameGrid = new FsLibrary('.artist-collection-list')
+
+//1
+var hoverartistname = [
+  {
+    classTarget: '.addclasses-artist-collection-item',
+    classToAdd: '.artist-hover1'
+  }
+]
+
+artistnameGrid.addclasses({
+  classArray: hoverartistname,
+  start: 1
+})
+
+//2
+var hoverartistname = [
+  {
+    classTarget: '.addclasses-artist-collection-item',
+    classToAdd: '.artist-hover2'
+  }
+]
+
+artistnameGrid.addclasses({
+  classArray: hoverartistname,
+  start: 2
+})
+
+//3
+var hoverartistname = [
+  {
+    classTarget: '.addclasses-artist-collection-item',
+    classToAdd: '.artist-hover3'
+  }
+]
+
+artistnameGrid.addclasses({
+  classArray: hoverartistname,
+  start: 3
+})
+
+//4
+var hoverartistname = [
+  {
+    classTarget: '.addclasses-artist-collection-item',
+    classToAdd: '.artist-hover4'
+  }
+]
+
+artistnameGrid.addclasses({
+  classArray: hoverartistname,
+  start: 4
+})
+
+
+//5
+var hoverartistname = [
+  {
+    classTarget: '.addclasses-artist-collection-item',
+    classToAdd: '.artist-hover5'
+  }
+]
+
+artistnameGrid.addclasses({
+  classArray: hoverartistname,
+  start: 5
+})
+
+
+//6
+var hoverartistname = [
+  {
+    classTarget: '.addclasses-artist-collection-item',
+    classToAdd: '.artist-hover6'
+  }
+]
+
+artistnameGrid.addclasses({
+  classArray: hoverartistname,
+  start: 6
+})
+
+//7
+var hoverartistname = [
+  {
+    classTarget: '.addclasses-artist-collection-item',
+    classToAdd: '.artist-hover7'
+  }
+]
+
+artistnameGrid.addclasses({
+  classArray: hoverartistname,
+  start: 7
+})
+
+//8
+var hoverartistname = [
+  {
+    classTarget: '.addclasses-artist-collection-item',
+    classToAdd: '.artist-hover8'
+  }
+]
+
+artistnameGrid.addclasses({
+  classArray: hoverartistname,
+  start: 8
+})
+
+//9
+var hoverartistname = [
+  {
+    classTarget: '.addclasses-artist-collection-item',
+    classToAdd: '.artist-hover9'
+  }
+]
+
+artistnameGrid.addclasses({
+  classArray: hoverartistname,
+  start: 9
+})
+
+//10
+var hoverartistname = [
+  {
+    classTarget: '.addclasses-artist-collection-item',
+    classToAdd: '.artist-hover10'
+  }
+]
+
+artistnameGrid.addclasses({
+  classArray: hoverartistname,
+  start: 10
+})
+
+//11
+var hoverartistname = [
+  {
+    classTarget: '.addclasses-artist-collection-item',
+    classToAdd: '.artist-hover11'
+  }
+]
+
+artistnameGrid.addclasses({
+  classArray: hoverartistname,
+  start: 11
+})
+
+//12
+var hoverartistname = [
+  {
+    classTarget: '.addclasses-artist-collection-item',
+    classToAdd: '.artist-hover12'
+  }
+]
+
+artistnameGrid.addclasses({
+  classArray: hoverartistname,
+  start: 12
+})
+
+//13
+var hoverartistname = [
+  {
+    classTarget: '.addclasses-artist-collection-item',
+    classToAdd: '.artist-hover13'
+  }
+]
+
+artistnameGrid.addclasses({
+  classArray: hoverartistname,
+  start: 13
+})
+
+//14
+var hoverartistname = [
+  {
+    classTarget: '.addclasses-artist-collection-item',
+    classToAdd: '.artist-hover14'
+  }
+]
+
+artistnameGrid.addclasses({
+  classArray: hoverartistname,
+  start: 14
+})
+
+//15
+var hoverartistname = [
+  {
+    classTarget: '.addclasses-artist-collection-item',
+    classToAdd: '.artist-hover15'
+  }
+]
+
+artistnameGrid.addclasses({
+  classArray: hoverartistname,
+  start: 15
+})
+
+//16
+var hoverartistname = [
+  {
+    classTarget: '.addclasses-artist-collection-item',
+    classToAdd: '.artist-hover16'
+  }
+]
+
+artistnameGrid.addclasses({
+  classArray: hoverartistname,
+  start: 16
+})
+
+//17
+var hoverartistname = [
+  {
+    classTarget: '.addclasses-artist-collection-item',
+    classToAdd: '.artist-hover17'
+  }
+]
+
+artistnameGrid.addclasses({
+  classArray: hoverartistname,
+  start: 17
+})
+
+//18
+var hoverartistname = [
+  {
+    classTarget: '.addclasses-artist-collection-item',
+    classToAdd: '.artist-hover18'
+  }
+]
+
+artistnameGrid.addclasses({
+  classArray: hoverartistname,
+  start: 18
+})
+
+//19
+var hoverartistname = [
+  {
+    classTarget: '.addclasses-artist-collection-item',
+    classToAdd: '.artist-hover19'
+  }
+]
+
+artistnameGrid.addclasses({
+  classArray: hoverartistname,
+  start: 19
+})
+
+//20
+var hoverartistname = [
+  {
+    classTarget: '.addclasses-artist-collection-item',
+    classToAdd: '.artist-hover20'
+  }
+]
+
+artistnameGrid.addclasses({
+  classArray: hoverartistname,
+  start: 20
+})
+
+//21
+var hoverartistname = [
+  {
+    classTarget: '.addclasses-artist-collection-item',
+    classToAdd: '.artist-hover21'
+  }
+]
+
+artistnameGrid.addclasses({
+  classArray: hoverartistname,
+  start: 21
+})
+
+//22
+var hoverartistname = [
+  {
+    classTarget: '.addclasses-artist-collection-item',
+    classToAdd: '.artist-hover22'
+  }
+]
+
+artistnameGrid.addclasses({
+  classArray: hoverartistname,
+  start: 22
+})
+
+//23
+var hoverartistname = [
+  {
+    classTarget: '.addclasses-artist-collection-item',
+    classToAdd: '.artist-hover23'
+  }
+]
+
+artistnameGrid.addclasses({
+  classArray: hoverartistname,
+  start: 23
+})
+
+//24
+var hoverartistname = [
+  {
+    classTarget: '.addclasses-artist-collection-item',
+    classToAdd: '.artist-hover24'
+  }
+]
+
+artistnameGrid.addclasses({
+  classArray: hoverartistname,
+  start: 24
+})
+
+
+
+
+})();
+</script>
+
+
+
+
+
+<script src="https://cdn.jsdelivr.net/npm/@finsweet/cms-library@1/cms-library.js"></script>
+<script>
+(function() {
+var projectsGrid = new FsLibrary('.collection-list')
+
+//1
+var artistshowandhide1 = [
+  {
+    classTarget: '.addclasses-collection-item',
+    classToAdd: '.artist-1'
+  }
+]
+
+projectsGrid.addclasses({
+  classArray: artistshowandhide1,
+  start: 1
+})
+
+//2
+var artistshowandhide1 = [
+  {
+    classTarget: '.addclasses-collection-item',
+    classToAdd: '.artist-2'
+  }
+]
+
+projectsGrid.addclasses({
+  classArray: artistshowandhide1,
+  start: 2
+})
+
+//3
+var artistshowandhide1 = [
+  {
+    classTarget: '.addclasses-collection-item',
+    classToAdd: '.artist-3'
+  }
+]
+
+projectsGrid.addclasses({
+  classArray: artistshowandhide1,
+  start: 3
+})
+
+//4
+var artistshowandhide1 = [
+  {
+    classTarget: '.addclasses-collection-item',
+    classToAdd: '.artist-4'
+  }
+]
+
+projectsGrid.addclasses({
+  classArray: artistshowandhide1,
+  start: 4
+})
+
+//5
+var artistshowandhide1 = [
+  {
+    classTarget: '.addclasses-collection-item',
+    classToAdd: '.artist-5'
+  }
+]
+
+projectsGrid.addclasses({
+  classArray: artistshowandhide1,
+  start: 5
+})
+
+//6
+var artistshowandhide1 = [
+  {
+    classTarget: '.addclasses-collection-item',
+    classToAdd: '.artist-6'
+  }
+]
+
+projectsGrid.addclasses({
+  classArray: artistshowandhide1,
+  start: 6
+})
+
+//7
+var artistshowandhide1 = [
+  {
+    classTarget: '.addclasses-collection-item',
+    classToAdd: '.artist-7'
+  }
+]
+
+projectsGrid.addclasses({
+  classArray: artistshowandhide1,
+  start: 7
+})
+
+//8
+var artistshowandhide1 = [
+  {
+    classTarget: '.addclasses-collection-item',
+    classToAdd: '.artist-8'
+  }
+]
+
+projectsGrid.addclasses({
+  classArray: artistshowandhide1,
+  start: 8
+})
+
+//9
+var artistshowandhide1 = [
+  {
+    classTarget: '.addclasses-collection-item',
+    classToAdd: '.artist-9'
+  }
+]
+
+projectsGrid.addclasses({
+  classArray: artistshowandhide1,
+  start: 9
+})
+
+//10
+var artistshowandhide1 = [
+  {
+    classTarget: '.addclasses-collection-item',
+    classToAdd: '.artist-10'
+  }
+]
+
+projectsGrid.addclasses({
+  classArray: artistshowandhide1,
+  start: 10
+})
+
+//11
+var artistshowandhide1 = [
+  {
+    classTarget: '.addclasses-collection-item',
+    classToAdd: '.artist-11'
+  }
+]
+
+projectsGrid.addclasses({
+  classArray: artistshowandhide1,
+  start: 11
+})
+
+//12
+var artistshowandhide1 = [
+  {
+    classTarget: '.addclasses-collection-item',
+    classToAdd: '.artist-12'
+  }
+]
+
+projectsGrid.addclasses({
+  classArray: artistshowandhide1,
+  start: 12
+})
+
+//13
+var artistshowandhide1 = [
+  {
+    classTarget: '.addclasses-collection-item',
+    classToAdd: '.artist-13'
+  }
+]
+
+projectsGrid.addclasses({
+  classArray: artistshowandhide1,
+  start: 13
+})
+
+//14
+var artistshowandhide1 = [
+  {
+    classTarget: '.addclasses-collection-item',
+    classToAdd: '.artist-14'
+  }
+]
+
+projectsGrid.addclasses({
+  classArray: artistshowandhide1,
+  start: 14
+})
+
+
+//15
+var artistshowandhide1 = [
+  {
+    classTarget: '.addclasses-collection-item',
+    classToAdd: '.artist-15'
+  }
+]
+
+projectsGrid.addclasses({
+  classArray: artistshowandhide1,
+  start: 15
+})
+
+//16
+var artistshowandhide1 = [
+  {
+    classTarget: '.addclasses-collection-item',
+    classToAdd: '.artist-16'
+  }
+]
+
+projectsGrid.addclasses({
+  classArray: artistshowandhide1,
+  start: 16
+})
+
+//17
+var artistshowandhide1 = [
+  {
+    classTarget: '.addclasses-collection-item',
+    classToAdd: '.artist-17'
+  }
+]
+
+projectsGrid.addclasses({
+  classArray: artistshowandhide1,
+  start: 17
+})
+
+//18
+var artistshowandhide1 = [
+  {
+    classTarget: '.addclasses-collection-item',
+    classToAdd: '.artist-18'
+  }
+]
+
+projectsGrid.addclasses({
+  classArray: artistshowandhide1,
+  start: 18
+})
+
+//19
+var artistshowandhide1 = [
+  {
+    classTarget: '.addclasses-collection-item',
+    classToAdd: '.artist-19'
+  }
+]
+
+projectsGrid.addclasses({
+  classArray: artistshowandhide1,
+  start: 19
+})
+
+//20
+var artistshowandhide1 = [
+  {
+    classTarget: '.addclasses-collection-item',
+    classToAdd: '.artist-20'
+  }
+]
+
+projectsGrid.addclasses({
+  classArray: artistshowandhide1,
+  start: 20
+})
+
+//21
+var artistshowandhide1 = [
+  {
+    classTarget: '.addclasses-collection-item',
+    classToAdd: '.artist-21'
+  }
+]
+
+projectsGrid.addclasses({
+  classArray: artistshowandhide1,
+  start: 21
+})
+
+//22
+var artistshowandhide1 = [
+  {
+    classTarget: '.addclasses-collection-item',
+    classToAdd: '.artist-22'
+  }
+]
+
+projectsGrid.addclasses({
+  classArray: artistshowandhide1,
+  start: 22
+})
+
+//23
+var artistshowandhide1 = [
+  {
+    classTarget: '.addclasses-collection-item',
+    classToAdd: '.artist-23'
+  }
+]
+
+projectsGrid.addclasses({
+  classArray: artistshowandhide1,
+  start: 23
+})
+
+//24
+var artistshowandhide1 = [
+  {
+    classTarget: '.addclasses-collection-item',
+    classToAdd: '.artist-24'
+  }
+]
+
+projectsGrid.addclasses({
+  classArray: artistshowandhide1,
+  start: 24
+})
+
+})();
+</script>
